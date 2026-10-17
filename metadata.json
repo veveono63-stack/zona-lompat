@@ -1,0 +1,10 @@
+{
+  "name": "Zona Lompat Cerdas - Game Evaluasi Kamera",
+  "description": "Game evaluasi interaktif berbasis webcam dengan zona Benar (kiri) dan Salah (kanan), panduan posisi baris siswa di tengah, timer berpikir dan lompat, serta generator soal AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
