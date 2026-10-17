@@ -1,7 +1,7 @@
 name = "zona-lompat"
 compatibility_date = "2024-03-20"
 compatibility_flags = ["nodejs_compat"]
+main = "server.ts"
 
-[vars]
-# Environment variables can be added here or in Cloudflare Dashboard
-# GEMINI_API_KEY = "your-api-key"
+[assets]
+directory = "./dist"
